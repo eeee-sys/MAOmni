@@ -13,3 +13,14 @@
 ⭐️ Code, model release.
 
 ## 🏆 MAOmni on Public Benchmarks
+<p align="center">
+    <img src="assets/dailyomni.png" width="100%" height="100%">
+</p>
+
+<p align="center">
+    <img src="assets/worldsense.png" width="100%" height="100%">
+</p>
+
+<p align="center">
+    <img src="assets/intentbench.png" width="100%" height="100%">
+</p>
