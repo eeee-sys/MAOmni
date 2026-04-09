@@ -28,5 +28,17 @@
 ## 🕹️ Demo
 
 ## 🚀 Training
+Our codebase supports training and evaluating on [10 video datasets and benchmarks] with the following features.
+
+- Hardware settings: NVIDIA GPU A100/H100, Single-Node / Multi-Node
+- Efficient training techniques: DeepSpeed ZeRO, BF16, LoRA, SDPA, FlashAttention2
+- Customizing the base LLM and conversation templates
+- Monitoring the training process via Tensorboard / Wandb
+- Group sampling for mixed dataset training
+- Multi-process / multi-device evaluation on public benchmarks
+
+See [TRAIN.md](docs/TRAIN.md) for a quick start guide.
 
 ## 🔮 Evaluation
+
+See [EVAL.md](docs/EVAL.md) for details about evaluating MAOmni on benchmarks.
