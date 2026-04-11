@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/60cf2207-d49f-4bea-8713-83d36e9e7c39
 ## 🚀 Training
 Our codebase supports training and evaluating on [10 video datasets and benchmarks] with the following features.
 
-- Hardware settings: NVIDIA GPU A100/H100, Single-Node / Multi-Node
+- Hardware settings: NVIDIA GPU A100 / H100, Single-Node / Multi-Node
 - Efficient training techniques: DeepSpeed ZeRO, BF16, LoRA, SDPA, FlashAttention2
 - Customizing the base LLM and conversation templates
 - Monitoring the training process via Tensorboard / Wandb
