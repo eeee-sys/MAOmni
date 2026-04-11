@@ -14,7 +14,7 @@
 - 🚀 MAOmni is ready on [Hugging Face Model](https://huggingface.co/Harry-1234/MAOmni). Check it out!
 - 📦 Training Data is ready on [Hugging Face Dataset](https://huggingface.co/datasets/Harry-1234/IntentRouterTrain/). Start it!
 - 🕹️ Online demo is ready [Hugging Face Space](https://huggingface.co/spaces/Harry-1234/MAOmni). Play with it!
-- ⭐️ Code, model, dataset release.
+- ⭐️ Code, model, dataset and online demo release.
 
 ## 🏆 MAOmni on Public Benchmarks
 <p align="center">
