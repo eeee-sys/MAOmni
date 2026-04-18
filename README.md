@@ -1,4 +1,4 @@
-<h2 align="center">MAOmni: A Self-Correcting Multi-Agent Omni-Modal Reasoning Framework For Affective and Intentional Analysis</h2>
+<h2 align="center">MODF-SIR: a Multi-agent Omni-modal Distilled Framework for Social Intelligence Reasoning</h2>
 
 <p align="center">
   <a href="https://huggingface.co/Harry-1234/MAOmni" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue"></a>
@@ -6,7 +6,7 @@
   <a href="https://huggingface.co/spaces/Harry-1234/MAOmni" target="_blank"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm-dark.svg"></a>
 </p>
 
-**MAOmni** is a novel self-correcting multi-agent omni-modal framework endowed with deliberative reasoning capabilities. MAOmni decomposes the reasoning process through a dynamic cognitive workflow orchestrated by five specialized agents, a generative Retriever for global context distillation, an adaptive AKD Router Agent for dynamic reasoning routing, a GRPO Grounder for precise continuous-time spatio-temporal localization, Reasoning Agent for explicit structured logical inference, and a TTA Reviser for test-time adaptive self-correction via ephemeral LoRA tuning.
+**MODF-SIR** a lightweight MLLM-based, distillation-augmented, multi-agent collaborative framework for social intelligence reasoning.
 
 <p align="center"><img width="100%" height="100%" src="assets/method.png"></p>
 
