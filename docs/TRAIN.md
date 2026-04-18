@@ -1,4 +1,4 @@
-# Training MAOmni
+# Training MODF-SIR
 
 ## 🛠️ Environment Setup
 
@@ -9,8 +9,8 @@ There are two environments to set up, one for GRPO Grounder Agent, one for other
 1. Clone the repository from GitHub.
 
 ```shell
-git clone git@github.com:eeee-sys/MAOmni.git
-cd MAOmni
+git clone git@github.com:eeee-sys/MODF-SIR.git
+cd MODF-SIR
 ```
 
 2. Initialize conda environment for GRPO Grounder.
@@ -31,8 +31,8 @@ pip install -r src/requirements_grpo_grounder.txt
 1. Initialize conda environment for main.
 
 ```shell
-conda create -n maomni_main python=3.10 -y
-conda activate maomni_main
+conda create -n modfsir_main python=3.10 -y
+conda activate modfsir_main
 ```
 
 2. Install dependencies.
@@ -65,7 +65,7 @@ Training data for the AKD Router Agent can be seen on [IntentRouterTrain](https:
 GRPO Grounder use training datasets from qvhighlights, didemo, internvid_vtime, queryd, tacos, which can be downloaded from [VideoMind-Dataset](https://huggingface.co/datasets/yeliudev/VideoMind-Dataset)
 
 ## 🕹️ Start Training
-Use the following commands to train MAOmni. We recommand using **NVIDIA H100 (80G) GPUs**.
+Use the following commands to train MODF-SIR. We recommand using **NVIDIA H100 (80G) GPUs**.
 ```shell
 # Pretrain GRPO Grounder Agent (7B)
 # use environment grpo_grounder
@@ -75,7 +75,3 @@ bash src/train_grpo_grounder/grpo/train_grpo_grounder_7b.sh
 # use environment maomni_main
 bash src/open-r1-multimodal/train_planner/train_planner.sh
 ```
-
-
-
-
