@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://huggingface.co/Harry-1234/MODF-SIR" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue"></a>
   <a href="https://huggingface.co/datasets/Harry-1234/IntentRouterTrain/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-orange"></a>
-  <a href="https://huggingface.co/spaces/Harry-1234/MAOmni" target="_blank"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm-dark.svg"></a>
+  <a href="https://huggingface.co/spaces/Harry-1234/MODF-SIR" target="_blank"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm-dark.svg"></a>
 </p>
 
 **MODF-SIR** is a lightweight MLLM-based, distillation-augmented, multi-agent collaborative framework for social intelligence reasoning.
@@ -13,7 +13,7 @@
 ## 🔥 News
 - 🚀 MODF-SIR is ready on [Hugging Face Model](https://huggingface.co/Harry-1234/MODF-SIR). Check it out!
 - 📦 Training Data is ready on [Hugging Face Dataset](https://huggingface.co/datasets/Harry-1234/IntentRouterTrain/). Start it!
-- 🕹️ Online demo is ready [Hugging Face Space](https://huggingface.co/spaces/Harry-1234/MAOmni). Play with it!
+- 🕹️ Online demo is ready [Hugging Face Space](https://huggingface.co/spaces/Harry-1234/MODF-SIR). Play with it!
 - ⭐️ Code, model, dataset and online demo release.
 
 ## 🏆 MODF-SIR on Public Benchmarks
@@ -31,7 +31,7 @@
 
 ## 🕹️ Demo
 
-Online demo is ready [Hugging Face Space](https://huggingface.co/spaces/Harry-1234/MAOmni). Play with it!
+Online demo is ready [Hugging Face Space](https://huggingface.co/spaces/Harry-1234/MODF-SIR). Play with it!
 
 
 https://github.com/user-attachments/assets/60cf2207-d49f-4bea-8713-83d36e9e7c39
