@@ -6,7 +6,7 @@
   <a href="https://huggingface.co/spaces/Harry-1234/MAOmni" target="_blank"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm-dark.svg"></a>
 </p>
 
-**MODF-SIR** a lightweight MLLM-based, distillation-augmented, multi-agent collaborative framework for social intelligence reasoning.
+**MODF-SIR** is a lightweight MLLM-based, distillation-augmented, multi-agent collaborative framework for social intelligence reasoning.
 
 <p align="center"><img width="100%" height="100%" src="assets/method.png"></p>
 
